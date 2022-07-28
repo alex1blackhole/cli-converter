@@ -20,8 +20,8 @@ node dist/App.js
 ```
 
 ```
- width - width after converting
- height -  height after converting
+ width    -  width after converting
+ height   -  height after converting
  filePath -  path to file
  fileName -  filename after after converting
 ```
