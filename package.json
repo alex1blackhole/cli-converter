@@ -1,5 +1,5 @@
 {
-  "name": "cli-app",
+  "name": "cli-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/alex1blackhole/cli-converter/issues"
   },
-  "homepage": "https://github.com/alex1blackhole/cli-converter#readme"
+  "homepage": "https://github.com/alex1blackhole/cli-converter#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/node": "^18.6.1"
+  }
 }
